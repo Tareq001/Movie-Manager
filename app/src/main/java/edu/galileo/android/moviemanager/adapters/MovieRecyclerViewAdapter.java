@@ -18,7 +18,7 @@ import edu.galileo.android.moviemanager.activities.MovieDetailActivity;
 import edu.galileo.android.moviemanager.models.Movie;
 
 /**
- * Created by isabelpalomar.
+ * Created by Tareq.
  */
 
 public class MovieRecyclerViewAdapter extends RecyclerView.Adapter<MovieRecyclerViewAdapter.ViewHolder> {
